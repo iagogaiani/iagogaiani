@@ -2,7 +2,7 @@
 
 **`Administrador | Analista de Dados`**
 
-Olá! Me chamo Iago. Possuo bacharelado em Administração pela Universidade Estadual de Londrina, mas atualmente busco me reinserir no mercado como analista de dados. Recentemente conclui o curso Business Intelligence Analyst da IBM e agora estudo Data Analytics pela Xperiun. Gostaria de dizer que estou sempre aberto a feedbacks que me ajudem a melhorar o meu trabalho!
+Olá! Me chamo Iago. Possuo bacharelado em Administração pela Universidade Estadual de Londrina, mas atualmente busco me reinserir no mercado como analista de dados. Recentemente concluí o curso Business Intelligence Analyst da IBM e agora estudo Data Analytics pela Xperiun. Gostaria de dizer que estou sempre aberto a feedbacks que me ajudem a melhorar o meu trabalho!
 
 Para mais detalhes, você pode me encontrar também no [Linkedin](www.linkedin.com/in/iagogaiani).
 
