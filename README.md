@@ -12,6 +12,14 @@ Para mais detalhes, você pode me encontrar também no [Linkedin](www.linkedin.c
 
 ### ⚙️ Ferramentas
 
+<img 
+    align="left"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="25px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/visual-studio-code/default.svg"
+/>
 
 <img 
     align="left"
